@@ -26,8 +26,8 @@
     "eslint-plugin-react-native": "^3.5.0",
     "jest": "23.6.0",
     "metro-react-native-babel-preset": "0.51.1",
-    "react-devtools": "^3.4.3",
-    "react-devtools-core": "3.4.3",
+    "react-devtools": "^3.4.2",
+    "react-devtools-core": "^3.4.2",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
